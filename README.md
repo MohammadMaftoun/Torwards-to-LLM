@@ -19,16 +19,15 @@ Large Language Models have revolutionized natural language processing (NLP) by p
     benchmarks/: Benchmark results and evaluation scripts.
 
 🔧 Getting Started
+1. Clone the Repository:
 
-    Clone the Repository:
     git clone https://github.com/MohammadMaftoun/Towards-to-LLM
     cd Towards-to-LLM
-
-Install Dependencies:
+2. Install Dependencies:
 
     pip install -r requirements.txt
 
-    Explore the Projects: Browse through the directories to find projects and tutorials of interest. Start with the notebooks/ directory for hands-on tutorials.
+Explore the Projects: Browse through the directories to find projects and tutorials of interest. Start with the notebooks/ directory for hands-on tutorials.
 
 💡 Applications
 Chatbots
