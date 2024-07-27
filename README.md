@@ -1,5 +1,8 @@
 Welcome to the LLM and Related Projects repository! This repository is dedicated to exploring, developing, and sharing projects centered around Large Language Models (LLMs), including but not limited to GPT-4, BERT, T5, and other state-of-the-art NLP models.
 
+![LLM](https://c6140bba-5c2d-4e7d-a82a-e7f61c4f4b4e.s3.ap-southeast-2.amazonaws.com/blog/7/AI+Brain.jpeg)
+
+
 📚 Overview
 
 Large Language Models have revolutionized natural language processing (NLP) by providing powerful tools for text generation, understanding, and manipulation. This repository aims to be a comprehensive resource for anyone interested in LLMs, offering a variety of projects, tutorials, and tools to help you leverage these models in your applications.
@@ -54,6 +57,10 @@ Text Summarization
 
     Document Summaries: Create concise summaries of lengthy documents, articles, or reports.
     News Summarization: Generate summaries of news articles to capture key points quickly.
+    
+![LLM-app](https://images.appypie.com/wp-content/uploads/2023/08/22054053/Real-world-Applications-of-LLMs.jpg)
+
+
 
 🤝 Contributing
 
