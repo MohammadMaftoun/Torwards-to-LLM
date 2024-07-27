@@ -21,15 +21,10 @@ Large Language Models have revolutionized natural language processing (NLP) by p
 🔧 Getting Started
 
     Clone the Repository:
-
-    bash
-
-git clone https://github.com/MohammadMaftoun/Towards-to-LLM
-cd Towards-to-LLM
+    git clone https://github.com/MohammadMaftoun/Towards-to-LLM
+    cd Towards-to-LLM
 
 Install Dependencies:
-
-bash
 
     pip install -r requirements.txt
 
