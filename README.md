@@ -66,9 +66,11 @@ Text Summarization
 🤝 Contributing
 
 We welcome contributions from the community! If you have a project, tutorial, or improvement you'd like to share, please follow our contribution guidelines.
+
 📄 License
 
 This repository is licensed under the MIT License. See the LICENSE file for more details.
+
 📫 Contact
 
 If you have any questions or suggestions, feel free to open an issue or contact us at my Gmail.
