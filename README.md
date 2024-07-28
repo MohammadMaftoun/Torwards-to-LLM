@@ -6,7 +6,7 @@ Welcome to the LLM and Related Projects repository! This repository is dedicated
 
 📚 Overview
 
-Large Language Models have revolutionized natural language processing (NLP) by providing powerful tools for text generation, understanding, and manipulation. This repository aims to be a comprehensive resource for anyone interested in LLMs, offering a variety of projects, tutorials, and tools to help you leverage these models in your applications.
+Large Language Models have revolutionized natural language processing (NLP) by providing effective tools for text generation, understanding, and manipulation. This repository aims to be a comprehensive resource for anyone interested in LLMs, offering a variety of projects, tutorials, and tools to help you leverage these models in your applications.
 🚀 Projects
 
     Model Implementations: Implementations of popular LLMs like GPT-4, BERT, and T5 using frameworks such as TensorFlow and PyTorch.
