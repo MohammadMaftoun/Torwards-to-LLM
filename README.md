@@ -72,4 +72,4 @@ We welcome contributions from the community! If you have a project, tutorial, or
 
 If you have any questions or suggestions, feel free to open an issue or contact us at my Gmail.
 
-Feel free to customize the description further better to fit your repository's specific content and goals.
+Feel free to customize the description further better to fit your repository's specific content and objectives.
